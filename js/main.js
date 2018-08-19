@@ -74,7 +74,7 @@ $(function() {
 		audioTimeout: 8000,
 
 		// other options
-		colors: ["#E7464F", "#CDAA20", "#80993B", "#07BABA", "#9B2C9D"],
+		colors: ["#6200EE"],
 		showAnimationSummary: false,
 		freezeOnBlur: freezeProp,
 		videoPlaybackChange: false,
